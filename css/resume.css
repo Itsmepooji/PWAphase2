@@ -1,0 +1,11 @@
+.main{
+  display: flex;
+}
+.left{
+  width:auto;
+  color: pink;
+}
+.right{
+  width: auto;
+  background-color: pink;
+}

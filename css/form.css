@@ -1,0 +1,40 @@
+body{
+  background: #daf7a6;
+}
+.main{
+  display: flex;
+  margin: 2%;
+border: 2px solid blue;
+  padding: 2%;
+  width:95%;
+}
+.main section{
+  width :95%;
+  border: 2px solid blue;
+  margin:1%;
+  padding:1%;
+}
+section{
+  background: #e5e8e8;
+}
+input,select{
+  width: 95%;
+  margin: 1%;
+  padding: 1%;
+  display: block;
+  border: 1px solid black;
+}
+#Career{
+  width: 95%;
+  margin:1%;
+  padding :2%;
+  display: block;
+}
+button{
+  width:20%;
+  background-color: #8e44ad;
+  margin: 1%;
+  padding: 1%;
+  font-size: 25px;
+  font-weight: bold;
+}
